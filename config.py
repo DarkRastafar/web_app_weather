@@ -1,0 +1,2 @@
+TOKEN = "e2fbcdf8aba30271b78027a62c0c2c3f"
+LANGUAGE = 'ru'
